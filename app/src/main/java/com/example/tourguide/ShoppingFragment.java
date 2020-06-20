@@ -28,11 +28,10 @@ public class ShoppingFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.activity_list,container,false);
         List<Custom> list = new ArrayList<>();
-        list.add(new Custom(R.string.buddha_smriti_park, R.string.buddha_smriti_park_description, R.string.buddha_smriti_park_location, R.string.buddha_smriti_park_timing, R.drawable.buddha_smriti_park_image));
-        list.add(new Custom(R.string.gurudwara, R.string.gurudwara_description, R.string.gurudwara_description, R.string.gurudwara_timing, R.drawable.gurudwara_image));
-        list.add(new Custom(R.string.patna_zoo, R.string.patna_zoo_description, R.string.patna_zoo_location, R.string.patna_bridge_timing, R.drawable.gurudwara_image));
-        list.add(new Custom(R.string.bihar_museum, R.string.bihar_museum_description, R.string.bihar_museum_location, R.string.bihar_museum_timing, R.drawable.bihar_museum));
-        list.add(new Custom(R.string.patna_bridge, R.string.patna_bridge_description, R.string.patna_bridge_location, R.string.patna_bridge_timing, R.drawable.bridge_image));
+        list.add(new Custom(R.string.pnm_mall, R.string.pnm_mall_description, R.string.pnm_mall_location, R.string.pnm_mall_timing, R.drawable.pnm_mall_image));
+        list.add(new Custom(R.string.patna_central_mall, R.string.patna_central_mall_description, R.string.patna_central_mall_location, R.string.patna_central_mall_timing, R.drawable.patna_central_mall_shopping));
+        list.add(new Custom(R.string.pantaloons, R.string.pantaloons_description, R.string.pantaloons_location, R.string.pantaloons_timing, R.drawable.pantaloos_shopping));
+        list.add(new Custom(R.string.patna_one_mall, R.string.patna_one_mall_description, R.string.patna_one_mall_location, R.string.patna_one_mall_timing, R.drawable.one_mall_shopping));
 
         WordAdapter adapter = new WordAdapter(getActivity(), list);
         ListView listView = rootView.findViewById(R.id.list);

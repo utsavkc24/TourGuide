@@ -59,4 +59,54 @@ Delivery/carryout chain offering a wide range of pizzas &amp; a variety of other
     <string name="seventeen_degree_timing">	12–10:30pm</string>
 
 
+    <!--Hotels-->
+    <string name="panache">Hotel The Panache</string>
+    <string name="panache_description">4-star hotel.</string>
+    <string name="panache_location">West of Ram Gulam Chowk, South Gandhi Maidan, Patna, Bihar 800001</string>
+    <string name="panache_timing">8am–10:30pm</string>
+
+    <string name="lemon_tree">Lemon Tree Premier, Patna</string>
+    <string name="lemon_tree_description">5-star hotel</string>
+    <string name="lemon_tree_location">Plot no 876 Exhibition Road, Near, Gandhi Maidan Rd, Patna, Bihar 800001.</string>
+    <string name="lemon_tree_timing">11am–11pm</string>
+
+    <string name="maurya">Hotel Maurya</string>
+    <string name="maurya_description">5-star hotel</string>
+    <string name="maurya_location"> Fraser Rd, South Gandhi Maidan, Raja Ji Salai, Dujra Diara, Patna, Bihar 800001</string>
+    <string name="maurya_timing">10am–11pm</string>
+
+    <string name="patliputra">Hotel Patliputra Continental</string>
+    <string name="patliputra_description">5-star hotel</string>
+    <string name="patliputra_location">Bypass Crossing PC, Golamber, Anisabad, Patna, Bihar 800002
+</string>
+    <string name="patliputra_timing">12:30–11pm</string>
+
+    <string name="buddha_heritage">Buddha Heritage</string>
+    <string name="buddha_heritage_description">3-star hotel</string>
+    <string name="buddha_heritage_location">54, Mall Rd, Patliputra Colony, Patna, Bihar 800013</string>
+    <string name="buddha_heritage_timing">	12–10:30pm</string>
+
+
+    <!--Shopping-->
+    <string name="pnm_mall">P&amp;M Mall</string>
+    <string name="pnm_mall_description">P&amp;M Mall is the first mall of Patna, the capital city of the eastern Indian state Bihar. It was opened in April 2011. Film director Prakash Jha &amp; Manmohan shetty is the Builder of the mall</string>
+    <string name="pnm_mall_location">Patliputra Kurji Rd, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar 800013</string>
+    <string name="pnm_mall_timing">10am–10:30pm</string>
+
+    <string name="patna_central_mall">Patna Central Mall</string>
+    <string name="patna_central_mall_description">The Mall is a shopping mall in Patna, Bihar. It houses retail spaces, including a Central, departmental store, multiplex, entertainment zone, food court, restaurants, gym, banquet halls, and shops.</string>
+    <string name="patna_central_mall_location"> LIC Building, Fraser Rd, Old Jakkanpur, Opp, Lodipur, Patna, Bihar 800001</string>
+    <string name="patna_central_mall_timing">11am–10pm</string>
+
+    <string name="pantaloons">Pantaloons</string>
+    <string name="pantaloons_description">Clothing store in Patna</string>
+    <string name="pantaloons_location">Plot No, Exhibition Road, 28 Chanakya Cinema, 789, Exhibition Rd, Patna, Bihar 800001</string>
+    <string name="pantaloons_timing">10am–11pm</string>
+
+    <string name="patna_one_mall">Patna One Mall</string>
+    <string name="patna_one_mall_description">Patna One Mall is a lavish commercial project by Meridian Construction Pvt. Ltd. located in the happening area of Dak Bunglow Road, Patna</string>
+    <string name="patna_one_mall_location"> New Dak Bunglow Rd, Adalatganj, Kidwaipuri, Patna, Bihar 800001
+</string>
+    <string name="patna_one_mall_timing">11:00am–9:30pm</string>
+
 </resources>

@@ -28,9 +28,9 @@ public class FoodsAndDrinksFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.activity_list,container,false);
         List<Custom> list = new ArrayList<>();
-        list.add(new Custom(R.string.bansi_vihar_resturant, R.string.bansi_vihar_resturant_description, R.string.bansi_vihar_resturant_location, R.string.bansi_vihar_resturant_timing, R.drawable.degree_image));
-        list.add(new Custom(R.string.biryani_mahal, R.string.biryani_mahal_description, R.string.bihar_museum_timing, R.string.bihar_museum_timing, R.drawable.degree_image));
-        list.add(new Custom(R.string.dominos, R.string.dominos_description, R.string.dominos_location, R.string.dominos_timing, R.drawable.degree_image));
+        list.add(new Custom(R.string.bansi_vihar_resturant, R.string.bansi_vihar_resturant_description, R.string.bansi_vihar_resturant_location, R.string.bansi_vihar_resturant_timing, R.drawable.bansi_vihar_image));
+        list.add(new Custom(R.string.biryani_mahal, R.string.biryani_mahal_description, R.string.bihar_museum_timing, R.string.bihar_museum_timing, R.drawable.biryani_mahal_image));
+        list.add(new Custom(R.string.dominos, R.string.dominos_description, R.string.dominos_location, R.string.dominos_timing, R.drawable.dominos_image));
         list.add(new Custom(R.string.mainland_china, R.string.mainland_china_description, R.string.mainland_china_location, R.string.mainland_china_timing, R.drawable.mainland_china_image));
         list.add(new Custom(R.string.seventeen_degree, R.string.seventeen_degree_description, R.string.seventeen_degree_location, R.string.seventeen_degree_timing, R.drawable.degree_image));
 
