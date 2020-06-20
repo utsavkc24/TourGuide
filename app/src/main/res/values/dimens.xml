@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Height of each item-->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Default screen margin as per android guidelines-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- padding for drawable icon in fields-->
+    <dimen name="drawable_icon_padding">8dp</dimen>
+    <!-- padding for string in fields-->
+    <dimen name="field_text_view_padding">8dp</dimen>
+
+    <!-- margin between two cards-->
+    <dimen name="card_margin">8dp</dimen>
+</resources>

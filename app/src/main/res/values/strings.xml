@@ -1,0 +1,62 @@
+<resources>
+    <!--Attraction-->
+    <string name="app_name">Tour Guide</string>
+    <string name="category_places">Attraction</string>
+    <string name="category_restaurants">Foods And Drinks</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_shopping">Shopping</string>
+
+    <string name="buddha_smriti_park">Buddha Smriti Park</string>
+    <string name="buddha_smriti_park_description"> Buddha Smriti Park also known as Buddha Memorial Park is an urban park located on Frazer Road near Patna Junction in Patna, India.</string>
+    <string name="buddha_smriti_park_location">Fraser Road, Near Patna Railway Station Patna Junction, Bihar 800001</string>
+    <string name="buddha_smriti_park_timing">9am–7pm</string>
+
+    <string name="gurudwara">Takhat Shri Harimandir Ji (Patna Sahib)</string>
+    <string name="gurudwara_description">Takht Sri Patna Sahib also known as Harmandir Sahib, is a Gurdwara in the neighbourhood of Patna Sahib, India.</string>
+    <string name="gurudwara_location">Takhat Sri Harmandir ji, Patna Sahib, Patna, Bihar 800008.</string>
+    <string name="gurudwara_timing">Open all day</string>
+
+    <string name="patna_zoo">Sanjay Gandhi Biological Park</string>
+    <string name="patna_zoo_description">Sanjay Gandhi Jaivik Udyan is located off Bailey Road in Patna, Bihar, India. The park was opened to the public as a zoo in 1973.</string>
+    <string name="patna_zoo_location"> Raj Bhavan, Bailey Rd, Rajbansi Nagar, Patna, Bihar 800001</string>
+    <string name="patna_zoo_timing">5am–6pm</string>
+
+    <string name="bihar_museum">Bihar Museum</string>
+    <string name="bihar_museum_description"> The Masjid e Jahan Numa, commonly known as the Jama Masjid of Delhi, is one of the largest mosques in India. It was built by the Mughal Emperor Shah Jahan between 1650 and 1656 at a cost of one million rupees.</string>
+    <string name="bihar_museum_location"> Jama Masjid Rd, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="bihar_museum_timing">10:30am–5pm</string>
+
+    <string name="patna_bridge">Digha–Sonpur Rail-Road Bridge</string>
+    <string name="patna_bridge_description">The Digha–Sonpur rail–road bridge or J.P Setu is a bridge across river Ganga, connecting Digha Ghat in Patna and Pahleja Ghat in Sonpur, Saran district in the Indian state of Bihar</string>
+    <string name="patna_bridge_location">Digha, Patna, Bihar 800011</string>
+    <string name="patna_bridge_timing">Open all day</string>
+
+    <!--FoodAndDrinks-->
+    <string name="bansi_vihar_resturant">Bansi Vihar Restaurant</string>
+    <string name="bansi_vihar_resturant_description">South Indian restaurant.</string>
+    <string name="bansi_vihar_resturant_location">Fraser Road, near Bank Of India, Dak Bunglow, Chauraha, Marwari Campus, Patna, Bihar 800001</string>
+    <string name="bansi_vihar_resturant_timing">8am–10:30pm</string>
+
+    <string name="biryani_mahal">BIRYANI MAHAL</string>
+    <string name="biryani_mahal_description">Mughlai restaurant.</string>
+    <string name="biryani_mahal_location">Kankarbagh Rd, opposite to anand nath shiv mandir, Bihar 800020.</string>
+    <string name="biryani_mahal_timing">11am–11pm</string>
+
+    <string name="dominos">Domino\'s Pizza</string>
+    <string name="dominos_description">Pizza restaurant
+Delivery/carryout chain offering a wide range of pizzas &amp; a variety of other dishes &amp; sides..</string>
+    <string name="dominos_location">Plot No. DS-22, Jagdeva Plaza, Kankarbagh Main Rd, P C Colony, Lohia Nagar, Patna, Bihar 800020</string>
+    <string name="dominos_timing">10am–11pm</string>
+
+    <string name="mainland_china">Mainland China</string>
+    <string name="mainland_china_description">Chinese restaurant.</string>
+    <string name="mainland_china_location">5th Floor, Central Mall, Fraser Rd, Old Jakkanpur, Indira Nagar, Patna, Bihar 800001</string>
+    <string name="mainland_china_timing">12:30–11pm</string>
+
+    <string name="seventeen_degree">17 Degrees, Patna</string>
+    <string name="seventeen_degree_description">Modern lighting gives this eatery with a full bar &amp; a charcoal tandoor a stylish vibe for parties.</string>
+    <string name="seventeen_degree_location">6th P &amp; M Nda BasketBall Court Mall Road, Patliputra Kurji Rd, Patliputra Industrial Area, Patna, Bihar 800013</string>
+    <string name="seventeen_degree_timing">	12–10:30pm</string>
+
+
+</resources>
