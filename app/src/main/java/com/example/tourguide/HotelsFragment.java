@@ -26,14 +26,14 @@ public class HotelsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.activity_list,container,false);
-        List<Custom> list = new ArrayList<>();
-        list.add(new Custom(R.string.panache, R.string.panache_description, R.string.panache_location, R.string.panache_timing, R.drawable.panche_hotel_image));
-        list.add(new Custom(R.string.lemon_tree, R.string.lemon_tree_description, R.string.lemon_tree_location, R.string.lemon_tree_timing, R.drawable.lemon_tree_hotel_image));
-        list.add(new Custom(R.string.maurya, R.string.maurya_description, R.string.maurya_location, R.string.maurya_timing, R.drawable.hotel_maurya_image));
-        list.add(new Custom(R.string.patliputra, R.string.patliputra_description, R.string.patliputra_location, R.string.patliputra_timing, R.drawable.patliputra_hotel_image));
-        list.add(new Custom(R.string.buddha_heritage, R.string.buddha_heritage_description, R.string.buddha_heritage_location, R.string.buddha_heritage_timing, R.drawable.buddha_hotel_image));
+        List<HotelCustom> list = new ArrayList<>();
+        list.add(new HotelCustom(R.string.panache, R.string.panache_description, R.string.panache_location, R.drawable.rate__3_, R.drawable.panche_hotel_image));
+        list.add(new HotelCustom(R.string.lemon_tree, R.string.lemon_tree_description, R.string.lemon_tree_location, R.drawable.rate__3_, R.drawable.lemon_tree_hotel_image));
+        list.add(new HotelCustom(R.string.maurya, R.string.maurya_description, R.string.maurya_location, R.drawable.rate__4_, R.drawable.hotel_maurya_image));
+        list.add(new HotelCustom(R.string.patliputra, R.string.patliputra_description, R.string.patliputra_location, R.drawable.rate__3_, R.drawable.patliputra_hotel_image));
+        list.add(new HotelCustom(R.string.buddha_heritage, R.string.buddha_heritage_description, R.string.buddha_heritage_location, R.drawable.rate__3_, R.drawable.buddha_hotel_image));
 
-        WordAdapter adapter = new WordAdapter(getActivity(), list);
+        HotelCustomAdapter adapter = new HotelCustomAdapter(getActivity(), list);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
         return rootView;

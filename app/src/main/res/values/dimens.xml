@@ -15,4 +15,6 @@
 
     <!-- margin between two cards-->
     <dimen name="card_margin">8dp</dimen>
+    <dimen name="activity_right_margin">288dp</dimen>
+    <dimen name="activity_rating_vertical_margin">4dp</dimen>
 </resources>
