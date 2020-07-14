@@ -62,11 +62,8 @@
                 android:id="@+id/rating_image"
                 android:layout_width="match_parent"
                 android:layout_height="88dp"
-                android:drawablePadding="@dimen/drawable_icon_padding"
                 tools:src="@drawable/rate"
                 android:layout_marginTop="@dimen/activity_rating_vertical_margin"
-                android:paddingStart="@dimen/field_text_view_padding"
-                android:paddingEnd="@dimen/field_text_view_padding"
                 android:layout_marginRight="@dimen/activity_right_margin"/>
 
         </LinearLayout>
