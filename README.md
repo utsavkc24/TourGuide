@@ -8,6 +8,6 @@
 </tr>
 <tr>
 <td><img src="Screenshot/hotels.jpeg" style="width: 200px;"/></td>
-<td><img src="Screenshot/hotels.jpeg" style="width: 200px;"/></td>
+<td><img src="Screenshot/shopping.jpeg" style="width: 200px;"/></td>
 </tr>
 </table>
